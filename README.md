@@ -1,4 +1,4 @@
-# Matias Dante Sarco {[matutEv](https://steamcommunity.com/id/matutEv/)} [matiasdante]
+# Matias Dante Sarco {[matutEv](https://steamcommunity.com/id/matutEv/)} {[matiasdante](https://twitter.com/matiasdante03)}
 
 <img src="https://github.com/matiasdante/matiasdante/assets/70301149/a5bc688c-5d07-44cb-8127-73c41fcd1886" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="128">
