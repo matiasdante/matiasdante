@@ -13,7 +13,7 @@ contribuciones en mis organizaciones de mi parte!
 * **MyAnimeList en una ventana emergente webview** - [[repository](https://github.com/matiasdante/myanimelist.webview)]
 
 <p align="center">
-  <img src="./img/example.png" alt="Size Limit CLI" width="738">
+  <img src="https://github.com/matiasdante/matiasdante/assets/70301149/4c0da9bd-4c29-4ff6-adc3-0854e735ca12" alt="Size Limit CLI">
 </p>
 
 With **[GitHub action]** Size Limit will post bundle size changes as a comment
