@@ -3,9 +3,9 @@
 <img src="https://github.com/matiasdante/matiasdante/assets/70301149/a5bc688c-5d07-44cb-8127-73c41fcd1886" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="128">
 
-Size Limit is a performance budget tool for JavaScript. It checks every commit
-on CI, calculates the real cost of your JS for end-users and throws an error
-if the cost exceeds the limit.
+Que onda, soy el tute, este es mi repositorio de github!
+Aqui encontraras varios de mis projectos propios, y algunas otras
+contribuciones en mis organizaciones de mi parte!
 
 * **ES modules** and **tree-shaking** support.
 * Add Size Limit to **GitHub Actions**, **Circle CI** or another CI system
