@@ -1,7 +1,7 @@
 # Matias Dante Sarco {matutEv} [matiasdante]
 
 <img src="https://github.com/matiasdante/matiasdante/assets/70301149/a5bc688c-5d07-44cb-8127-73c41fcd1886" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="128">
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
 on CI, calculates the real cost of your JS for end-users and throws an error
