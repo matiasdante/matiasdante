@@ -7,10 +7,10 @@ Que onda, soy el tute, este es mi repositorio de github!
 Aqui encontraras varios de mis projectos propios, y algunas otras
 contribuciones en mis organizaciones de mi parte!
 
-* **Convertor de archivos multimadia a mp4** [[repository](https://github.com/matiasdante/any-video-file-to-mp4)]
-* **Autoexec.cfg for Counter Strike 2 (new CSGO)** [[repository](https://github.com/matiasdante/autoexec.cfg)]
-* **Cuackdae, bot de discord al estilo mudae pero con patos de goma** [[repository](https://github.com/matiasdante/cuackdae)]
-* **MyAnimeList en una ventana emergente webview** [[repository](https://github.com/matiasdante/myanimelist.webview)]
+* **Convertor de archivos multimadia a mp4** - [[repository](https://github.com/matiasdante/any-video-file-to-mp4)]
+* **Autoexec.cfg for Counter Strike 2 (new CSGO)** - [[repository](https://github.com/matiasdante/autoexec.cfg)]
+* **Cuackdae, bot de discord al estilo mudae pero con patos de goma** - [[repository](https://github.com/matiasdante/cuackdae)]
+* **MyAnimeList en una ventana emergente webview** - [[repository](https://github.com/matiasdante/myanimelist.webview)]
 
 <p align="center">
   <img src="./img/example.png" alt="Size Limit CLI" width="738">
