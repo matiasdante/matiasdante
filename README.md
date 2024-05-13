@@ -5,7 +5,7 @@
 
 Que onda, soy el tute, este es mi repositorio de github!
 Aqui encontraras varios de mis projectos propios, y algunas otras
-contribuciones en mis organizaciones de mi parte!
+contribuciones en organizaciones de mi parte!
 
 * **Convertor de archivos multimadia a mp4** - [[repository](https://github.com/matiasdante/any-video-file-to-mp4)]
 * **Autoexec.cfg for Counter Strike 2 (new CSGO)** - [[repository](https://github.com/matiasdante/autoexec.cfg)]
@@ -18,13 +18,8 @@ contribuciones en mis organizaciones de mi parte!
   <img src="https://github.com/matiasdante/matiasdante/assets/70301149/4c0da9bd-4c29-4ff6-adc3-0854e735ca12" alt="Size Limit CLI">
 </p>
 
-With **[GitHub action]** Size Limit will post bundle size changes as a comment
-in pull request discussion.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/andresz1/size-limit-action/master/assets/pr.png"
-  alt="Size Limit comment in pull request about bundle size changes"
-  width="686" height="289">
+<p align="left">
+<img src="https://github.com/matiasdante/matiasdante/assets/70301149/5c721de5-1d07-45db-8d27-fd4c90edf601"  alt="Estudios">
 </p>
 
 With `--why`, Size Limit can tell you *why* your library is of this size
