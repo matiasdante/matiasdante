@@ -7,16 +7,10 @@ Que onda, soy el tute, este es mi repositorio de github!
 Aqui encontraras varios de mis projectos propios, y algunas otras
 contribuciones en mis organizaciones de mi parte!
 
-* **ES modules** and **tree-shaking** support.
-* Add Size Limit to **GitHub Actions**, **Circle CI** or another CI system
-  to know if a pull request adds a massive dependency.
-* **Modular** to fit different use cases: big JS applications
-  that use their own bundler or small npm libraries with many files.
-* Can calculate **the time** it would take a browser
-  to download and **execute** your JS. Time is a much more accurate
-  and understandable metric compared to the size in bytes.
-* Calculations include **all dependencies and polyfills**
-  used in your JS.
+* **Convertor de archivos multimadia a mp4** [[repository(https://github.com/matiasdante/any-video-file-to-mp4)]]
+* **Autoexec.cfg for Counter Strike 2 (new CSGO)** [[repository](https://github.com/matiasdante/autoexec.cfg)]
+* **Cuackdae, bot de discord al estilo mudae pero con patos de goma** [[repository](https://github.com/matiasdante/cuackdae)]
+* **MyAnimeList en una ventana emergente webview** [[repository](https://github.com/matiasdante/myanimelist.webview)]
 
 <p align="center">
   <img src="./img/example.png" alt="Size Limit CLI" width="738">
