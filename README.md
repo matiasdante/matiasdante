@@ -12,7 +12,7 @@ contribuciones en mis organizaciones de mi parte!
 * **Cuackdae, bot de discord al estilo mudae pero con patos de goma** - [[repository](https://github.com/matiasdante/cuackdae)]
 * **MyAnimeList en una ventana emergente webview** - [[repository](https://github.com/matiasdante/myanimelist.webview)]
 
-### Organizaciones
+## Organizaciones
 
 <p align="left">
   <img src="https://github.com/matiasdante/matiasdante/assets/70301149/4c0da9bd-4c29-4ff6-adc3-0854e735ca12" alt="Size Limit CLI">
