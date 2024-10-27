@@ -69,5 +69,5 @@
 ## 🌍 Languages 🌍
 
 * **English B1**
-* **Portuguese A1 **
+* **Portuguese A1**
 * **Spanish (native)** 
