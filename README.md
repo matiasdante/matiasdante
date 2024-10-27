@@ -1,10 +1,9 @@
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <h1 style="margin: 0;">Hi, I'm Matias Dante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 style="margin: 0;" align="right">Hi, I'm Matias Dante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&lines=Systems+Engineering+Student" alt="Typing SVG" />
-  </a>
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Systems+Engineering+Student" alt="Typing SVG" />
+</a>
+
 
 <p align="left">
   <a href="https://www.instagram.com/matutev__" target="_blank">
@@ -35,10 +34,18 @@
 * *Studying systems engineering at UADE* --> [[UADE](https://www.uade.edu.ar/)]
 
 ## 🏬 Organizations 🏬 
-
-<p align="left">
-  <img src="https://github.com/matiasdante/matiasdante/assets/70301149/4c0da9bd-4c29-4ff6-adc3-0854e735ca12" alt="Size Limit CLI">
-</p>
+  <a href="https://img.shields.io/badge/Dou%20Community%20S.A.-000?logo=github">
+    <img src="https://img.shields.io/badge/Dou%20Community%20S.A.-000?logo=github" alt="Dou Community S.A." />
+  </a>
+  <a href="https://img.shields.io/badge/Dou%20Community%20S.A.-000?logo=github">
+    <img src="https://img.shields.io/badge/DC%20Solutions%20SRL.-000?logo=github" alt="Dou Community S.A." />
+  </a> <br>
+  <a href="https://github.com/Dou-Community-S-A">
+      <img src="https://github.com/user-attachments/assets/62ffe85b-0eb5-42fb-b874-d2e5d246c10e" alt="DOU" >
+  </a>
+  <a href="https://github.com/Implementation-Working-DCS">
+      <img src="https://github.com/user-attachments/assets/c0e1f83f-b8e1-48e7-a091-4094257d85e4" alt="DCS" >
+  </a>
 
 ## 📖 Estudios 📖
 
