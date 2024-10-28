@@ -58,7 +58,7 @@
 ## ♾️ Usage ♾️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasdante&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasdante&theme=transparent&show_icons=true)
 
-<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matiasdante&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matiasdante&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🧠 Knowledge 🧠
