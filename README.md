@@ -76,7 +76,7 @@
 
 | Carrera | Institución | Período |
 |---------|-------------|---------|
-| **Ingeniería en Sistemas** | Universidad Argentina de la Empresa | 2025-Actualidad |
+| **Ingeniería en Informatica** | Universidad Argentina de la Empresa | 2025-Actualidad |
 | ~~Licenciatura en Criminología y cibercrimen~~ | Universidad Argentina de la Empresa | 2024 |
 | ~~Ingeniería Informática~~ | Universidad Argentina de la Empresa | 2021-2023 |
 
