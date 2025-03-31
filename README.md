@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Systems+Engineering+Student;Junior+DevOps+Developer;From+San+Martin+to+the+World+🌍" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Systems+Engineering+Student;DevOps+Developer;🌍+From+San+Martin+to+the+World+🌍" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,27 +10,27 @@
 
 ## 👨‍💻 Acerca de mí
 
-- 🚀 **Junior DevOps en [DC Solutions SRL](https://www.dcs.ar/)**
-- 🎓 Estudiante de Ingeniería en Sistemas en [UADE](https://www.uade.edu.ar/)
+- 🚀 **DevOps en [DC Solutions SRL](https://www.dcs.ar/)**
+- 🎓 Estudiante de Ingeniería en Informatica en [UADE](https://www.uade.edu.ar/)
 - 💡 Conocimientos en Python, Kubernetes, Linux, Git y más
-- 🌱 Aprendiendo constantemente nuevas tecnologías DevOps
+- 🌱 Aprendiendo constantemente nuevas tecnologías
 
 <br>
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasdante&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=matiasdante&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" height="150">
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matiasdante&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats">
 </div>
 
 ## 🔧 Tecnologías y Herramientas
 
-<div align="center">
+<div align="left">
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -53,16 +53,16 @@
 
 ## 🏬 Organizaciones
 
-<div align="center">
+<div align="left">
   <table border="0" cellspacing="0" cellpadding="5" style="border: none;">
     <tr>
-      <td align="center" width="50%">
+      <td align="left" width="50%">
         <a href="https://github.com/DouDev-SA">
           <img src="https://github.com/DouDev-SA.png" alt="DOU" height="90"><br>
           <img src="https://img.shields.io/badge/Dou%20Community%20S.A.-000?style=for-the-badge&logo=github" alt="Dou Community S.A." />
         </a>
       </td>
-      <td align="center" width="50%">
+      <td align="left" width="50%">
         <a href="https://github.com/DCSolutions-SRL">
           <img src="https://github.com/DCSolutions-SRL.png" alt="DCS" height="90"><br>
           <img src="https://img.shields.io/badge/DC%20Solutions%20SRL.-000?style=for-the-badge&logo=github" alt="DC Solutions SRL." />
@@ -96,7 +96,7 @@
 
 ## 📫 Conéctate conmigo
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/matutev__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
