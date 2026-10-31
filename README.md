@@ -120,12 +120,6 @@
 
 <br>
 
-### 🏢 Organizations
-
-<a href="https://github.com/DCSolutions-SRL">
-  <img src="https://github.com/DCSolutions-SRL.png" width="60px" alt="DC Solutions">
-</a>
-
 ---
 
 <div align="center">
