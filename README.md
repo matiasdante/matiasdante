@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:0D1117,100:238636&height=190&section=header&text=Matias%20Dante&fontSize=52&fontColor=39D353&fontAlignY=38&desc=Tech%20Lead%20%26%20Software%20Engineer&descSize=18&descAlignY=58&descColor=C9D1D9" width="100%" alt="Matias Dante" />
+<img src="./assets/header.svg" width="100%" alt="Matias Dante - Tech Lead &amp; Software Engineer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=700&color=39D353&center=true&vCenter=true&width=560&lines=Tech+Lead+%40+DC+Solutions;Scope.+Architecture.+Critical+builds.;.NET+%C2%B7+Angular+%C2%B7+Go+%C2%B7+Rust+%C2%B7+C%2FC%2B%2B;Building+MCP+tools+for+AI+agents" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/matutev"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D353" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/matutev"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzM5RDM1MyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+Cg==" alt="LinkedIn" /></a>
 <a href="https://x.com/matiasdante03"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=39D353" alt="X" /></a>
 <a href="https://www.instagram.com/matutev__"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39D353" alt="Instagram" /></a>
 <a href="mailto:matiasdantesarco@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353" alt="Email" /></a>
@@ -63,11 +63,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=matiasdante&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&border_color=238636" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasdante&layout=compact&langs_count=6&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_color=238636" alt="Top languages" />
+<img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=matiasdante&background=0D1117&border=238636&stroke=238636&ring=39D353&fire=39D353&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,45:0D1117,100:0D1117&height=110&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
